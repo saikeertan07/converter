@@ -1,0 +1,23 @@
+{
+  "name": "converter",
+  "version": "1.2.0",
+  "description": "High-Performance In-Browser Multi-Format Document, Image & Media Conversion Engine",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "node tests/conversion_matrix.test.js && node tests/security_sandbox.test.js",
+    "lint": "eslint js/ --ext .js",
+    "format": "prettier --write 'css/**/*.css' 'js/**/*.js' '*.html'"
+  },
+  "keywords": [
+    "file-converter",
+    "pdf-tools",
+    "client-side",
+    "canvas",
+    "jspdf",
+    "pdf-lib",
+    "privacy-first",
+    "image-converter"
+  ],
+  "author": "Sai Keertan <tedlasaikeertan@gmail.com>",
+  "license": "MIT"
+}
