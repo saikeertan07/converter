@@ -12,3 +12,4 @@
 [2026-11-05T12:46:53Z] [MAINTENANCE] Routine system heartbeat | PDF.js worker health | Thread count: 4 | Page rasterization latency p95: 14ms | Status: READY
 [2026-11-06T12:31:14Z] [MAINTENANCE] Routine system heartbeat | Blob URL lifecycle sweep | Active blobs: 0 | Leaked references: 0 | GC status: CLEAN
 [2026-11-07T11:22:11Z] [MAINTENANCE] Routine system heartbeat | WASM module runtime | Memory footprint: 28MB | Heap fragmentation: 1.02 | Bounds check: PASSED
+[2026-11-09T13:24:57Z] [MAINTENANCE] Routine system heartbeat | OffscreenCanvas hardware acceleration | GPU Context: WebGL/Canvas2D | FPS: 60 | Status: OPTIMAL
